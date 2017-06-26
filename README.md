@@ -1,6 +1,6 @@
 # TKActiveLabel
 
-Customisable subclass of the ActiveLabel.
+Customisable subclass of the [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift).
 
 ### Usage in Interface Builder
 
